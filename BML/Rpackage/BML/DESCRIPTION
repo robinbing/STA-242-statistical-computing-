@@ -1,0 +1,10 @@
+Package: BML
+Type: Package
+Title: BML traffic model
+Version: 1.0
+Date: 2015-04-30
+Author: YIBING LUO
+Maintainer: YIBING LUO <ybluo@ucdavis.edu>
+Description: A simulation package for BML traffic model
+License: GPL-2
+Suggestion: tests
